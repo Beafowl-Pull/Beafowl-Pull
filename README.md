@@ -4,8 +4,8 @@
 - 📫 How to reach me: matheo.martin@epitech.eu
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beafowl&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beafowl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Beafowl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beafowl&theme=radical)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Beafowl)]
 
 <!---
 Beafowl-Pull/Beafowl-Pull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
