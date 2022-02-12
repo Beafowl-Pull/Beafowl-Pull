@@ -3,6 +3,8 @@
 - 💞️ I’m looking to collaborate with other TEK of Epitech
 - 📫 How to reach me: matheo.martin@epitech.eu
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beafowl_Pull)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Beafowl-Pull/Beafowl-Pull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
