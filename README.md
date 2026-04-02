@@ -18,10 +18,7 @@
 ---
 
 ### 📊 Here's some of my coding experience :
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Beafowl-Pull&theme=omni" />
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beafowl-Pull)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beafowl-Pull&show_icons=true&theme=omni)
 
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
