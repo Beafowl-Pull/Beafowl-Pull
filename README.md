@@ -25,7 +25,7 @@
   />
   <source
     srcset="https://github-readme-stats.shion.dev/api?username=Beafowl-Pull&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: omni), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.shion.dev/api?username=Beafowl-Pull&show_icons=true" />
 </picture>
