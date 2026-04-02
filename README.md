@@ -20,8 +20,8 @@
 ### 📊 Here's some of my coding experience :
 <picture>
   <source
-    srcset="https://github-readme-stats.shion.dev/api?username=Beafowl-Pull&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.shion.dev/api?username=Beafowl-Pull&show_icons=true&theme=omni"
+    media="(prefers-color-scheme: omni)"
   />
   <source
     srcset="https://github-readme-stats.shion.dev/api?username=Beafowl-Pull&show_icons=true"
@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.shion.dev/api?username=Beafowl-Pull&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Beafowl-Pull&layout=compact)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Beafowl-Pull&layout=compact&theme=omni)
 
 <!-- old repo https://github.com/anuraghazra/github-readme-stats/
 <!---
