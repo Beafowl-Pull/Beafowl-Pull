@@ -18,8 +18,6 @@
 ---
 
 ### 📊 Here's some of my coding experience :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beafowl-Pull&show_icons=true&theme=omni)
-
 <picture>
   <source
     srcset="https://github-readme-stats.shion.dev/api?username=Beafowl-Pull&show_icons=true&theme=dark"
