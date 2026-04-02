@@ -30,6 +30,8 @@
   <img src="https://github-readme-stats.shion.dev/api?username=Beafowl-Pull&show_icons=true" />
 </picture>
 
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Beafowl-Pull&layout=compact)
+
 <!-- old repo https://github.com/anuraghazra/github-readme-stats/
 <!---
 Beafowl-Pull/Beafowl-Pull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
