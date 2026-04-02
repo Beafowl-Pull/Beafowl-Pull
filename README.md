@@ -18,18 +18,7 @@
 ---
 
 ### 📊 Here's some of my coding experience :
-<picture>
-  <source
-    srcset="https://github-readme-stats.shion.dev/api?username=Beafowl-Pull&show_icons=true&theme=omni"
-    media="(prefers-color-scheme: omni)"
-  />
-  <source
-    srcset="https://github-readme-stats.shion.dev/api?username=Beafowl-Pull&show_icons=true"
-    media="(prefers-color-scheme: omni), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.shion.dev/api?username=Beafowl-Pull&show_icons=true" />
-</picture>
-
+![Anurag's GitHub stats](https://github-readme-stats.shion.dev/api?username=Beafowl-Pull&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Beafowl-Pull&layout=compact&theme=omni)
 
 <!-- old repo https://github.com/anuraghazra/github-readme-stats/
